@@ -1,0 +1,4 @@
+loading screen
+start screen - screen with load game, new game, exit 
+choosing tanks
+game screen
