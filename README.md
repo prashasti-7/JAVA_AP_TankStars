@@ -1,6 +1,6 @@
-# JAVA_AP_TankStars
+# Tank Stars 🎮
 
-This project is similar to a popular game, Tank Stars. The tech stack used is Java and the framework used is LibGDX.
+Hello! This project is similar to a popular game, Tank Stars. The tech stack used is Java and the framework used is LibGDX.
 
 
 ## Images

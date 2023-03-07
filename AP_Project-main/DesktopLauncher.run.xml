@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="DesktopLauncher" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="ALTERNATIVE_JRE_PATH" value="corretto-16" />
+    <option name="ALTERNATIVE_JRE_PATH" value="corretto-18" />
     <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
     <option name="MAIN_CLASS_NAME" value="com.mygdx.game.DesktopLauncher" />
     <module name="AP_Project-main.desktop.main" />
