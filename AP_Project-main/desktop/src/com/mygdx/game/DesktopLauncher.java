@@ -11,6 +11,7 @@ import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
 public class DesktopLauncher {
 	public static void main (String[] arg) {
+		//for setting up screen
 		Result result = JUnitCore.runClasses(MyTest.class);
 		Lwjgl3ApplicationConfiguration config = new Lwjgl3ApplicationConfiguration();
 		config.setForegroundFPS(60);
